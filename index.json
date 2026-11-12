@@ -1,0 +1,110 @@
+{
+  "publisher": "Backreef",
+  "releases": [
+    {
+      "pluginId": "backreef.anikoto",
+      "name": "Anikoto",
+      "version": "1.0.6",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.anikoto-1.0.6.zip",
+      "digest": "90cd34080e87c40c7dab305fda4593093ab91287f542cd74ca1b479d6e393833",
+      "publisher": "Backreef",
+      "sdk": "^1.0.0",
+      "notes": "Plays anime from Anikoto.",
+      "description": "Plays anime episodes from Anikoto.",
+      "capabilities": [
+        "source"
+      ],
+      "icon": "https://raw.githubusercontent.com/backreef/extensions/main/icons/backreef.anikoto.png"
+    },
+    {
+      "pluginId": "backreef.animetosho",
+      "name": "AnimeTosho",
+      "version": "1.0.5",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.animetosho-1.0.5.zip",
+      "digest": "7e7f07f424f60a6aed6390b0d06de0958fa8d79f4df44e1126038909c915c5d6",
+      "publisher": "Backreef",
+      "sdk": "^1.0.0",
+      "notes": "AnimeTosho searches anime titles only.",
+      "description": "Finds anime torrents and NZBs on AnimeTosho.",
+      "capabilities": [
+        "source"
+      ],
+      "icon": "https://raw.githubusercontent.com/backreef/extensions/main/icons/backreef.animetosho.svg"
+    },
+    {
+      "pluginId": "backreef.nyaa",
+      "name": "Nyaa",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.nyaa-1.0.0.zip",
+      "digest": "71da846b0f886688516da82b1ce0f489c13d216dcd8913881a057d4f0bae5e89",
+      "publisher": "Backreef",
+      "sdk": "^1.0.0",
+      "notes": "Nyaa anime torrent search.",
+      "description": "Finds anime torrents on Nyaa.",
+      "capabilities": [
+        "source"
+      ],
+      "icon": "https://raw.githubusercontent.com/backreef/extensions/main/icons/backreef.nyaa.svg"
+    },
+    {
+      "pluginId": "backreef.nyaa-literature",
+      "name": "Nyaa literature",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.nyaa-literature-1.0.0.zip",
+      "digest": "8351bda12382772a7124d17ef8d1ba36eba7dab9f6979e909a56f26b3199ff38",
+      "publisher": "Backreef",
+      "sdk": "^1.0.0",
+      "notes": "Nyaa manga and book torrent search.",
+      "description": "Finds manga and book torrents on Nyaa.",
+      "capabilities": [
+        "source"
+      ],
+      "icon": "https://raw.githubusercontent.com/backreef/extensions/main/icons/backreef.nyaa-literature.svg"
+    },
+    {
+      "pluginId": "backreef.thepiratebay",
+      "name": "The Pirate Bay",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.thepiratebay-1.0.0.zip",
+      "digest": "1355910c6b84ec75f875bbfe735ab4eb5249b231f96c7ed838c6587756d26751",
+      "publisher": "Backreef",
+      "sdk": "^1.0.0",
+      "notes": "Torrent search for every media kind.",
+      "description": "Finds torrents for every media kind on The Pirate Bay.",
+      "capabilities": [
+        "source"
+      ],
+      "icon": "https://raw.githubusercontent.com/backreef/extensions/main/icons/backreef.thepiratebay.png"
+    },
+    {
+      "pluginId": "backreef.weebcentral",
+      "name": "WeebCentral",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.weebcentral-1.0.0.zip",
+      "digest": "6900f40c914f25a3b1412ca831a77a215a76e7f4f2542326ad0ba4deb93e7e6a",
+      "publisher": "Backreef",
+      "sdk": "^1.0.0",
+      "notes": "",
+      "description": "Reads manga chapters from WeebCentral.",
+      "capabilities": [
+        "source"
+      ],
+      "icon": "https://raw.githubusercontent.com/backreef/extensions/main/icons/backreef.weebcentral.png"
+    },
+    {
+      "pluginId": "backreef.novelfire",
+      "name": "NovelFire",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.novelfire-1.0.0.zip",
+      "digest": "57b702dc73d0553fc73ac5eabdcc9f167fe7db63c0680d7a746c2bbb6b635a8e",
+      "publisher": "Backreef",
+      "sdk": "^1.0.0",
+      "notes": "",
+      "description": "Reads light novel chapters from NovelFire.",
+      "capabilities": [
+        "source"
+      ],
+      "icon": "https://raw.githubusercontent.com/backreef/extensions/main/icons/backreef.novelfire.png"
+    }
+  ]
+}
