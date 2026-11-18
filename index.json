@@ -4,13 +4,20 @@
     {
       "pluginId": "backreef.anikoto",
       "name": "Anikoto",
-      "version": "1.0.6",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.anikoto-1.0.6.zip",
-      "digest": "d91de3fd5c123c683cebc8c737ed415f22363798be90bbb2f18cdcab2e86150e",
+      "version": "1.0.7",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.anikoto-1.0.7.zip",
+      "digest": "5c18ac614bc0b48ecac4f1ac778b5a7cca215ff7403bfb6ba6efd558c9576104",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Plays anime from Anikoto.",
       "description": "Plays anime episodes from Anikoto.",
+      "languages": [
+        "en"
+      ],
+      "tags": [
+        "anime",
+        "stream"
+      ],
       "capabilities": [
         "source"
       ],
@@ -19,13 +26,21 @@
     {
       "pluginId": "backreef.animetosho",
       "name": "AnimeTosho",
-      "version": "1.0.6",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.animetosho-1.0.6.zip",
-      "digest": "68ff796d612145aa97f452c8a815bb355ff62b0f60874cf6142060db93074ce1",
+      "version": "1.0.7",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.animetosho-1.0.7.zip",
+      "digest": "f5e1f93fa5638d84c1c1f883560c2a4f220f40d3e1cf18aa2def268389823574",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "AnimeTosho searches anime titles only.",
       "description": "Finds anime torrents and NZBs on AnimeTosho.",
+      "languages": [
+        "mul"
+      ],
+      "tags": [
+        "anime",
+        "torrent",
+        "nzb"
+      ],
       "capabilities": [
         "source"
       ],
@@ -34,13 +49,20 @@
     {
       "pluginId": "backreef.nyaa",
       "name": "Nyaa",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.nyaa-1.0.0.zip",
-      "digest": "72e29026f4ed8c37b31108a1eeccb899ed59b9fa810f3f64f95f9f0b9add07c5",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.nyaa-1.0.1.zip",
+      "digest": "4f10b0a3bd94cbcd1dc138b44140551f9206d2386d130c64f9fde6487f63ee96",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Nyaa anime torrent search.",
       "description": "Finds anime torrents on Nyaa.",
+      "languages": [
+        "mul"
+      ],
+      "tags": [
+        "anime",
+        "torrent"
+      ],
       "capabilities": [
         "source"
       ],
@@ -49,13 +71,22 @@
     {
       "pluginId": "backreef.nyaa-literature",
       "name": "Nyaa literature",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.nyaa-literature-1.0.0.zip",
-      "digest": "99c79548fc598ff2cf9ac61718208f7b98361195112f2ce13dc61e042b6b1a99",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.nyaa-literature-1.0.1.zip",
+      "digest": "d3e3eaf1208eeac87185dd064a4cea6c5d758912e701a4d8729e6a1a8f83464b",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Nyaa manga and book torrent search.",
       "description": "Finds manga and book torrents on Nyaa.",
+      "languages": [
+        "mul"
+      ],
+      "tags": [
+        "manga",
+        "novels",
+        "books",
+        "torrent"
+      ],
       "capabilities": [
         "source"
       ],
@@ -64,13 +95,21 @@
     {
       "pluginId": "backreef.sukebei",
       "name": "Sukebei",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.sukebei-1.0.0.zip",
-      "digest": "3fdb0f65cf4e263eefe4de6bfa77d92565671e58ccd771c7c8763ca953f3a326",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.sukebei-1.0.1.zip",
+      "digest": "8aa4edc2e60074e9496266b7e9c58be831299fe67275a09165a33751fdb1f94d",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Sukebei adult torrent search.",
       "description": "Finds adult anime and video torrents on Sukebei.",
+      "languages": [
+        "mul"
+      ],
+      "tags": [
+        "anime",
+        "adult",
+        "torrent"
+      ],
       "capabilities": [
         "source"
       ],
@@ -79,13 +118,23 @@
     {
       "pluginId": "backreef.thepiratebay",
       "name": "The Pirate Bay",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.thepiratebay-1.0.0.zip",
-      "digest": "4c6b7f4cf469ff0ac73b69e3218c6f36a0a3b626bbf06d639a217be3531ac1b5",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.thepiratebay-1.0.1.zip",
+      "digest": "2835390d4355d7696e7a94d5de3469b8c754c521ef70eaf66f9da3317e7c7183",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Torrent search for every media kind.",
       "description": "Finds torrents for every media kind on The Pirate Bay.",
+      "languages": [
+        "mul"
+      ],
+      "tags": [
+        "anime",
+        "movies",
+        "shows",
+        "books",
+        "torrent"
+      ],
       "capabilities": [
         "source"
       ],
@@ -94,13 +143,20 @@
     {
       "pluginId": "backreef.weebcentral",
       "name": "WeebCentral",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.weebcentral-1.0.0.zip",
-      "digest": "eca68aba6428af4e489a1ec48a6f74cc63ae170cf10ef6342f9b139f5024cc58",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.weebcentral-1.0.1.zip",
+      "digest": "ae22da5f2e95c78cacecc11c718a2995652e003848da3e0ca2b2decdf1c43496",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "",
       "description": "Reads manga chapters from WeebCentral.",
+      "languages": [
+        "en"
+      ],
+      "tags": [
+        "manga",
+        "reader"
+      ],
       "capabilities": [
         "source"
       ],
@@ -109,13 +165,20 @@
     {
       "pluginId": "backreef.novelfire",
       "name": "NovelFire",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.novelfire-1.0.0.zip",
-      "digest": "57b702dc73d0553fc73ac5eabdcc9f167fe7db63c0680d7a746c2bbb6b635a8e",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.novelfire-1.0.1.zip",
+      "digest": "7a1a105f0b52ad29386bfa4f17aa091b44ae21902e1cbf87efb321c506884eae",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "",
       "description": "Reads light novel chapters from NovelFire.",
+      "languages": [
+        "en"
+      ],
+      "tags": [
+        "novels",
+        "reader"
+      ],
       "capabilities": [
         "source"
       ],
@@ -124,13 +187,20 @@
     {
       "pluginId": "backreef.mangabuddy",
       "name": "MangaBuddy",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.mangabuddy-1.0.0.zip",
-      "digest": "a0e7b5563a81fb7c0d08fc80a60ecad54205b494383b6d33ffe5863a2618d3ca",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.mangabuddy-1.0.1.zip",
+      "digest": "b3da49ba9ed2b117f0fd370edde76cc38b3b88f811a1b980c61ddbdcf4b337b2",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "",
       "description": "Reads manga chapters from MangaBuddy.",
+      "languages": [
+        "en"
+      ],
+      "tags": [
+        "manga",
+        "reader"
+      ],
       "capabilities": [
         "source"
       ],
@@ -139,13 +209,20 @@
     {
       "pluginId": "backreef.atsumaru",
       "name": "Atsumaru",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.atsumaru-1.0.0.zip",
-      "digest": "28d782fa05d2883f9667ed101e42f8480ecf3ae1748a5c81e206827e385e75c6",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.atsumaru-1.0.1.zip",
+      "digest": "e1265204a804e79807eb848c5cdc8a3c2c61bc432f8d4fd6879f9dd7d657e3bb",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "",
       "description": "Reads manga chapters from Atsumaru.",
+      "languages": [
+        "en"
+      ],
+      "tags": [
+        "manga",
+        "reader"
+      ],
       "capabilities": [
         "source"
       ],
@@ -154,13 +231,20 @@
     {
       "pluginId": "backreef.mangapill",
       "name": "Mangapill",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.mangapill-1.0.0.zip",
-      "digest": "80a61d94004029f48b7a13070d4a0445878a007e4994c04295b1a024950d9434",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.mangapill-1.0.1.zip",
+      "digest": "415d382bf6b33589817a7b36ab286ecbd28836b298ec457204ebb79c1b8b442e",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "",
       "description": "Reads manga chapters from Mangapill.",
+      "languages": [
+        "en"
+      ],
+      "tags": [
+        "manga",
+        "reader"
+      ],
       "capabilities": [
         "source"
       ],
@@ -169,13 +253,20 @@
     {
       "pluginId": "backreef.mangakatana",
       "name": "MangaKatana",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.mangakatana-1.0.0.zip",
-      "digest": "a394ffa10b4a501ac5e4350092279105bb2fb897f8cb07263a489c4d2e0ccef3",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.mangakatana-1.0.1.zip",
+      "digest": "56df208c60908ad9831f751b61b7f87fd8574a6c5860e98ab14bdea39bacf45d",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "",
       "description": "Reads manga chapters from MangaKatana.",
+      "languages": [
+        "en"
+      ],
+      "tags": [
+        "manga",
+        "reader"
+      ],
       "capabilities": [
         "source"
       ],
@@ -184,13 +275,20 @@
     {
       "pluginId": "backreef.mangafreak",
       "name": "MangaFreak",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.mangafreak-1.0.0.zip",
-      "digest": "e20c042ccaa0553efc9425c6aeac2d80c6f2a5f4a73685de2f160464fd2e9aaf",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.mangafreak-1.0.1.zip",
+      "digest": "46f6a4f7de9d237ca3a36462cfcd84dce8a80ebe2a1510d6400112bc64bbaa5a",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "",
       "description": "Reads manga chapters from MangaFreak.",
+      "languages": [
+        "en"
+      ],
+      "tags": [
+        "manga",
+        "reader"
+      ],
       "capabilities": [
         "source"
       ],
@@ -199,13 +297,20 @@
     {
       "pluginId": "backreef.mangaunion",
       "name": "MangaUnion",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.mangaunion-1.0.0.zip",
-      "digest": "161b3c968c79133563d5ce6ae3fe1ca3830e45c4b51320405b266f1f78cc30fe",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.mangaunion-1.0.1.zip",
+      "digest": "06711c7d604b367ac7ef9181e7e8f26317544dc35b747ebe3ad604ceb816ad02",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "",
       "description": "Reads Italian manga chapters from MangaUnion.",
+      "languages": [
+        "it"
+      ],
+      "tags": [
+        "manga",
+        "reader"
+      ],
       "capabilities": [
         "source"
       ],
@@ -214,13 +319,20 @@
     {
       "pluginId": "backreef.komiku",
       "name": "Komiku",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.komiku-1.0.0.zip",
-      "digest": "309151fca7756aaa153e88f5435da8a5d7b6d08475c8ed1a91a303c2540025d0",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.komiku-1.0.1.zip",
+      "digest": "0c04dd348035c57c73759d88060961006d84d5e0e920cf2ecd29677a8e327593",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "",
       "description": "Reads Indonesian manga chapters from Komiku.",
+      "languages": [
+        "id"
+      ],
+      "tags": [
+        "manga",
+        "reader"
+      ],
       "capabilities": [
         "source"
       ],
@@ -229,13 +341,20 @@
     {
       "pluginId": "backreef.fanfox",
       "name": "FanFox",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.fanfox-1.0.0.zip",
-      "digest": "34ee344a3954e1754c06fb9ac62e37b6c00d874472eed0b6fc32dcd56cb3ace7",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.fanfox-1.0.1.zip",
+      "digest": "5661f6ac30d47c93b26ddb9ae9071da9ba9e4fc690e0c6a4d94414810ca4f503",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "",
       "description": "Reads manga chapters from FanFox.",
+      "languages": [
+        "en"
+      ],
+      "tags": [
+        "manga",
+        "reader"
+      ],
       "capabilities": [
         "source"
       ],
@@ -244,13 +363,20 @@
     {
       "pluginId": "backreef.mangaflix",
       "name": "MangaFlix",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.mangaflix-1.0.0.zip",
-      "digest": "e0f483d1d0528db4327308e710d659f043a8b2782879993610d1e66664a95412",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.mangaflix-1.0.1.zip",
+      "digest": "85496504bcab2dc0ca84d59c7c976a7b28d4b541f2e5bad47bbe9613ae533d24",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "",
       "description": "Reads Portuguese manga chapters from MangaFlix.",
+      "languages": [
+        "pt-BR"
+      ],
+      "tags": [
+        "manga",
+        "reader"
+      ],
       "capabilities": [
         "source"
       ],
@@ -259,13 +385,20 @@
     {
       "pluginId": "backreef.mangataro",
       "name": "MangaTaro",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.mangataro-1.0.0.zip",
-      "digest": "47d9db47ce77253929dfda5d98e38afdc805413a9cea2a943dcbce5e69c1abcd",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.mangataro-1.0.1.zip",
+      "digest": "f05f63b65f85df7679add6464b2c73ff41f7887c79bffb81eba363a2d3387c8a",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "",
       "description": "Reads manga chapters from MangaTaro.",
+      "languages": [
+        "en"
+      ],
+      "tags": [
+        "manga",
+        "reader"
+      ],
       "capabilities": [
         "source"
       ],
@@ -274,13 +407,20 @@
     {
       "pluginId": "backreef.subsplease",
       "name": "SubsPlease",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.subsplease-1.0.0.zip",
-      "digest": "91e02ec9beb1833a790985c5671b43a6d56aba7fc8429e75ee90378f26ffee9f",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.subsplease-1.0.1.zip",
+      "digest": "f77caca4e08ed8aa7fe08bf6e311d5083e57fd5a80f0d2f838284ace36009109",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Port of SubsPlease-Provider for Caye acquisition.",
       "description": "Fetches anime episode torrents from SubsPlease.org.",
+      "languages": [
+        "en"
+      ],
+      "tags": [
+        "anime",
+        "torrent"
+      ],
       "capabilities": [
         "source"
       ],
@@ -289,13 +429,20 @@
     {
       "pluginId": "backreef.seadex",
       "name": "SeaDex",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.seadex-1.0.0.zip",
-      "digest": "e32a241a80286e060e4e9f914d50ac7ebe50b1738ba576084ab011ca9345cd1d",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.seadex-1.0.1.zip",
+      "digest": "27de2f55d9e4b2f0ac490e95647ce476ae3cb73cc27a349402489ab068ee7aca",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Port of seadex for Caye acquisition.",
       "description": "SeaDex curated best-release torrent index.",
+      "languages": [
+        "en"
+      ],
+      "tags": [
+        "anime",
+        "torrent"
+      ],
       "capabilities": [
         "source"
       ],
@@ -304,13 +451,20 @@
     {
       "pluginId": "backreef.acg-rip",
       "name": "ACG.RIP",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.acg-rip-1.0.0.zip",
-      "digest": "35b13319fad91b3f6885c38ce771943d0a251dc5f94a19f54e56954423fe0b0e",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.acg-rip-1.0.1.zip",
+      "digest": "03aafb8b5e0d11f63c2b4006c8a8816f3ff2e56095aefe9ce6a77cc7049a28e5",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Port of acg-rip-provider for Caye acquisition.",
       "description": "Fetches anime torrents from acg.rip.",
+      "languages": [
+        "zh"
+      ],
+      "tags": [
+        "anime",
+        "torrent"
+      ],
       "capabilities": [
         "source"
       ],
@@ -319,13 +473,20 @@
     {
       "pluginId": "backreef.anirena",
       "name": "AniRena",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.anirena-1.0.0.zip",
-      "digest": "ca3006885b30c1d4652f50a513aeea342b0ef0a3f043cd701ac42dc9dad9c9d7",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.anirena-1.0.1.zip",
+      "digest": "42a69849c0616c45672f2e532115588e5850b7dd5800e07ca53ffad840d64798",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Port of anirena for Caye acquisition.",
       "description": "Fetches anime torrents from AniRena.",
+      "languages": [
+        "en"
+      ],
+      "tags": [
+        "anime",
+        "torrent"
+      ],
       "capabilities": [
         "source"
       ],
@@ -334,13 +495,22 @@
     {
       "pluginId": "backreef.knaben",
       "name": "Knaben",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.knaben-1.0.0.zip",
-      "digest": "564da38db29921571966d92ac3dfd937870cd0c7cec10682fee727e6b112e10d",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.knaben-1.0.1.zip",
+      "digest": "7a46dec469a6038e35d0586b46e46af8c5e94a7708fefc8215653a19996c31ea",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Port of knaben for Caye acquisition.",
       "description": "Knaben Database torrent provider for anime, series, and movies.",
+      "languages": [
+        "mul"
+      ],
+      "tags": [
+        "anime",
+        "movies",
+        "shows",
+        "torrent"
+      ],
       "capabilities": [
         "source"
       ],
@@ -349,13 +519,20 @@
     {
       "pluginId": "backreef.animegarden",
       "name": "Anime Garden",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.animegarden-1.0.0.zip",
-      "digest": "28a5bb38be331e7c7b6eb39dcd227ff76e679f10cd780fa8869ef22967bfd1fb",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.animegarden-1.0.1.zip",
+      "digest": "5aa15717fa4ce96f5985a022213de2a835750dba30568d5bf8950b128dde8cda",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Port of Anime-Garden for Caye acquisition.",
       "description": "AnimeGarden Chinese-subtitled anime torrent search.",
+      "languages": [
+        "zh"
+      ],
+      "tags": [
+        "anime",
+        "torrent"
+      ],
       "capabilities": [
         "source"
       ],
@@ -364,13 +541,20 @@
     {
       "pluginId": "backreef.mikan",
       "name": "Mikan Project",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.mikan-1.0.0.zip",
-      "digest": "af8908dc3e95b5a549127c9cb416ca2dcc1c792281fc89797edc7c8fac4a991b",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.mikan-1.0.1.zip",
+      "digest": "dd74bb1a4929d8db47e7c13c3214f1034c8835614a4c6d086fe52ef9fb81d5ba",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Port of mikan-project for Caye acquisition.",
       "description": "Mikan Project Chinese-subtitled anime RSS torrent search.",
+      "languages": [
+        "zh"
+      ],
+      "tags": [
+        "anime",
+        "torrent"
+      ],
       "capabilities": [
         "source"
       ],
@@ -379,13 +563,20 @@
     {
       "pluginId": "backreef.archive-org",
       "name": "Archive.org",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.archive-org-1.0.0.zip",
-      "digest": "de91afaff204890fddb260cda92a53aa141f02fb4d17ec9f8005eb94aa92b487",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.archive-org-1.0.1.zip",
+      "digest": "99b2b88c9ee163ff003829cb92dc60497f87808b4e74af4089737475d60396cf",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Port of archive-org for Caye acquisition.",
       "description": "Anime torrents with HTTP web seeds from Internet Archive (archive.org).",
+      "languages": [
+        "mul"
+      ],
+      "tags": [
+        "anime",
+        "torrent"
+      ],
       "capabilities": [
         "source"
       ],
@@ -394,13 +585,20 @@
     {
       "pluginId": "backreef.dkb",
       "name": "DKB",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.dkb-1.0.0.zip",
-      "digest": "3ca85b23281da10d535697f316483424c6bf0bb14399658e0379286bef621631",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.dkb-1.0.1.zip",
+      "digest": "de3385aea2386a92492ce0f7e396e43683567cf2f9f270236351edbe97686c4f",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Port of dkb for Caye acquisition.",
       "description": "DKB & Weeblets 1080p HEVC x265 releases from dkb.lowpolyfire.com.",
+      "languages": [
+        "en"
+      ],
+      "tags": [
+        "anime",
+        "torrent"
+      ],
       "capabilities": [
         "source"
       ],
@@ -409,13 +607,20 @@
     {
       "pluginId": "backreef.aniliberty",
       "name": "AniLiberty",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.aniliberty-1.0.0.zip",
-      "digest": "6e8ba9d74529f70ba635b985046f5df53cef96a27fe3a7d28a210aafa7ddc2f0",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.aniliberty-1.0.1.zip",
+      "digest": "2bc0e640ba9f6d50292a569bec2051c30b70a6524ad35f1efbd7f1d047928be2",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Port of AniLiberty for Caye acquisition.",
       "description": "Fetches Russian-dubbed anime torrents from AniLiberty API.",
+      "languages": [
+        "ru"
+      ],
+      "tags": [
+        "anime",
+        "torrent"
+      ],
       "capabilities": [
         "source"
       ],
@@ -424,13 +629,20 @@
     {
       "pluginId": "backreef.kickassanime",
       "name": "KickAssAnime",
-      "version": "1.0.8",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.kickassanime-1.0.8.zip",
-      "digest": "fd4e4b712b331e465a77dfde668a4225903082abf65b3532f8f0d73604bed939",
+      "version": "1.0.9",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.kickassanime-1.0.9.zip",
+      "digest": "c5b5a846ddc5973479211a1226a28c482dfdcd292948200cad848c8575a9dd73",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Streams anime episodes from KickAssAnime.",
       "description": "Streams subbed and dubbed anime with soft subtitles from KickAssAnime.",
+      "languages": [
+        "en"
+      ],
+      "tags": [
+        "anime",
+        "stream"
+      ],
       "capabilities": [
         "source"
       ],
@@ -439,13 +651,20 @@
     {
       "pluginId": "backreef.anitvplus",
       "name": "AniTVPlus",
-      "version": "1.0.3",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.anitvplus-1.0.3.zip",
-      "digest": "9ede2ffa59852e866650270eb9a718c7bcd04aefe66b64818f4f3a424316fc16",
+      "version": "1.0.4",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.anitvplus-1.0.4.zip",
+      "digest": "5d283aa8d0df27b091e848a3a004105535ef0e2239875bdee5c140c1091e4a14",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Streams anime episodes from AniTVPlus.",
       "description": "Streams anime episodes with subtitles from AniTVPlus.",
+      "languages": [
+        "mul"
+      ],
+      "tags": [
+        "anime",
+        "stream"
+      ],
       "capabilities": [
         "source"
       ],
@@ -454,13 +673,20 @@
     {
       "pluginId": "backreef.animeheaven",
       "name": "AnimeHeaven",
-      "version": "1.1.6",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.animeheaven-1.1.6.zip",
-      "digest": "eac0518c846a3d5ee8b279cd05a60f9a8119a15b9a55433d83d2fa541ea67a34",
+      "version": "1.1.7",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.animeheaven-1.1.7.zip",
+      "digest": "7296044f4e8a00117dd4072b23a6330c836effe9e88521ef51fa9ba168884041",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Streams anime episodes from AnimeHeaven.",
       "description": "Streams subbed anime episodes from AnimeHeaven.",
+      "languages": [
+        "en"
+      ],
+      "tags": [
+        "anime",
+        "stream"
+      ],
       "capabilities": [
         "source"
       ],
@@ -469,13 +695,20 @@
     {
       "pluginId": "backreef.animeav1",
       "name": "AnimeAV1",
-      "version": "1.3.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.animeav1-1.3.0.zip",
-      "digest": "c72b0d5cefc1dd327dd91508d30ffdd13e484a0ab9ce046a7ceb13bd15ce7d92",
+      "version": "1.3.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.animeav1-1.3.1.zip",
+      "digest": "04ffcaddda7d3915fed4ebee4eff1bc46c08951d7acf6a921750f01e9bb1b044",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Streams Spanish subbed and dubbed anime from AnimeAV1.",
       "description": "Streams Spanish subbed and dubbed anime from AnimeAV1.",
+      "languages": [
+        "es"
+      ],
+      "tags": [
+        "anime",
+        "stream"
+      ],
       "capabilities": [
         "source"
       ],
@@ -484,13 +717,20 @@
     {
       "pluginId": "backreef.animetoast",
       "name": "AnimeToast",
-      "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.animetoast-1.0.1.zip",
-      "digest": "9aa47cffde37712eac42214cd1732469627ad706e0e136a1564dee0c7f5de3ec",
+      "version": "1.0.2",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.animetoast-1.0.2.zip",
+      "digest": "1c09af3a9b8bec810bb217fffecb37051a684b61997402c1d1ed55778be40041",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Streams German subbed and dubbed anime from AnimeToast.",
       "description": "Streams German subbed and dubbed anime from AnimeToast.",
+      "languages": [
+        "de"
+      ],
+      "tags": [
+        "anime",
+        "stream"
+      ],
       "capabilities": [
         "source"
       ],
@@ -499,13 +739,20 @@
     {
       "pluginId": "backreef.animesaturn",
       "name": "AnimeSaturn",
-      "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.animesaturn-1.0.1.zip",
-      "digest": "be96d4bb9090429ccc744f2711edf2409f79425192a67632af872aefe49d7e33",
+      "version": "1.0.2",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.animesaturn-1.0.2.zip",
+      "digest": "a098cc7ad78c569405cd8f9bd1646c457163a7598805e85920fb2e9adcf0df6c",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Streams Italian subbed and dubbed anime from AnimeSaturn mirror.",
       "description": "Streams Italian subbed and dubbed anime from AnimeSaturn mirror.",
+      "languages": [
+        "it"
+      ],
+      "tags": [
+        "anime",
+        "stream"
+      ],
       "capabilities": [
         "source"
       ],
@@ -514,13 +761,20 @@
     {
       "pluginId": "backreef.mynimeku",
       "name": "MyNimeKu",
-      "version": "1.4.1",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.mynimeku-1.4.1.zip",
-      "digest": "96e2f05a1e3fc76f8d8d3f3b0019a7ab4334e9626f874d522999a88eac93de73",
+      "version": "1.4.2",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.mynimeku-1.4.2.zip",
+      "digest": "f8b9dab9956f65c8090eb166721aac586ff691f69c32418d9fa7ce1bb05ec331",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Streams Indonesian subbed anime from MyNimeKu.",
       "description": "Streams Indonesian subbed anime from MyNimeKu.",
+      "languages": [
+        "id"
+      ],
+      "tags": [
+        "anime",
+        "stream"
+      ],
       "capabilities": [
         "source"
       ],
@@ -529,13 +783,20 @@
     {
       "pluginId": "backreef.animeunion",
       "name": "AnimeUnion",
-      "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.animeunion-1.0.1.zip",
-      "digest": "d05654c156555814e8841aeb2055222975039124d3acb2fc783ef17db36455f8",
+      "version": "1.0.2",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.animeunion-1.0.2.zip",
+      "digest": "014712e08cf672724409984b805799574dd3f6a57acdb639c657e16bfea86fe1",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Streams Italian subbed and dubbed anime from AnimeUnion.",
       "description": "Streams Italian subbed and dubbed anime from AnimeUnion.",
+      "languages": [
+        "it"
+      ],
+      "tags": [
+        "anime",
+        "stream"
+      ],
       "capabilities": [
         "source"
       ],
@@ -544,13 +805,20 @@
     {
       "pluginId": "backreef.animeunity",
       "name": "AnimeUnity",
-      "version": "1.1.0",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.animeunity-1.1.0.zip",
-      "digest": "4b8fe3b01e3a5018e214f0b356b199299cb1d649672e09525c190bb2d9b5f205",
+      "version": "1.1.1",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.animeunity-1.1.1.zip",
+      "digest": "f76ae9d7c57bbf08a002fce2b364bc37f18355593a91dbbc71130f56808aea0a",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Streams Italian subbed anime from AnimeUnity mirror.",
       "description": "Streams Italian subbed anime from AnimeUnity mirror.",
+      "languages": [
+        "it"
+      ],
+      "tags": [
+        "anime",
+        "stream"
+      ],
       "capabilities": [
         "source"
       ],
