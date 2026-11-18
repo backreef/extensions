@@ -95,9 +95,9 @@
     {
       "pluginId": "backreef.sukebei",
       "name": "Sukebei",
-      "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.sukebei-1.0.1.zip",
-      "digest": "8aa4edc2e60074e9496266b7e9c58be831299fe67275a09165a33751fdb1f94d",
+      "version": "1.0.2",
+      "url": "https://raw.githubusercontent.com/backreef/extensions/main/zips/backreef.sukebei-1.0.2.zip",
+      "digest": "dae87dcc412f43b2760d21c2c33c80288d9681f17a04ca26c503b038da7681b2",
       "publisher": "Backreef",
       "sdk": "^1.0.0",
       "notes": "Sukebei adult torrent search.",
